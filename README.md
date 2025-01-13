@@ -8,52 +8,69 @@ Atualmente eu estou estudando para atuar nessa área, portanto, neste portfólio
 ### 💻 Linguagens e Tecnologias
 
 
-
 <img 
-    align = "left"
-    alt = "C"
-    title = "C"
-    widht = "30px"
-    sytle = "padding-right: 10px;"
-    src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+    align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+
+ <img 
+    align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
 />
 
 
- <img
-     align = "left"
-     alt = "C++"
-     title = "C++"
-     widht = "30px"
-     sytle = "padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+ <img 
+    align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+         
 
-
-<img 
-     align = "left"
-     alt = "Python"
-     title = "Python"
-     widht = "30px"
-     sytle = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-          
-
-<img 
-     align = "left"
-     alt = "PostgreSQL"
-     title = "PostgreSQL"
-     widht = "30px"
-     sytle = "padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+ <img 
+    align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
 
            
 <img 
-     align = "left"
-     alt = "anaconda"
-     title = "anaconda"
-     widht = "30px"
-     sytle = "padding-right: 10px;"
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
-
+    align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"
+/>
 ### 💻 Estatísticas
           
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Tainara-Miranda&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tainara-Miranda&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
