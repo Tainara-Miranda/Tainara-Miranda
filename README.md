@@ -58,6 +58,7 @@ Atualmente eu estou estudando para atuar nessa área, portanto, neste portfólio
 
 <br/>
 <br/>
+
 ### 💻 Estatísticas
           
 <p>
