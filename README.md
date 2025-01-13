@@ -55,6 +55,8 @@ Atualmente eu estou estudando para atuar nessa área, portanto, neste portfólio
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"
 />
+
+
 ### 💻 Estatísticas
           
 <p>
