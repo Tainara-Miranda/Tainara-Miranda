@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Tainara Miranda 
 
-Olá, me chamo Tainara, tenho 25 anos e sou formada em Física com Ênfase em Física Computacional pela Universidade Federal Fluminense. Atualmente sou mestranda em física pela mesma universidade em que me formei. Durante meu curso tive o contato com algumas linguagens de programação e ao longo dos anos foi-se crescendo uma vontade de aprender mais, até conhecer e me apaixonar por ciências de dados.
+Olá, me chamo Tainara, tenho 25 anos e sou formada em Física com Ênfase em Física Computacional pela Universidade Federal Fluminense e mestre em Física. Durante meu curso tive o contato com algumas linguagens de programação e ao longo dos anos foi-se crescendo uma vontade de aprender mais, até conhecer e me apaixonar por ciências de dados.
 Atualmente eu estou estudando para atuar nessa área, portanto, neste portfólio você irá encontrar alguns projetos realizados por mim, no intuito de compreender e melhorar cada vez mais minhas habilidades! Sinta-se a vontade! ⭐
 
 ---
