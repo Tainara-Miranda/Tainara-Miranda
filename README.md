@@ -19,8 +19,8 @@ Atualmente eu estou estudando para atuar nessa área, portanto, neste portfólio
 
  <img 
     align="left" 
-    alt="C"
-    title="C" 
+    alt="C++"
+    title="C++" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
@@ -29,8 +29,8 @@ Atualmente eu estou estudando para atuar nessa área, portanto, neste portfólio
 
  <img 
     align="left" 
-    alt="C"
-    title="C" 
+    alt="Python"
+    title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
@@ -39,8 +39,8 @@ Atualmente eu estou estudando para atuar nessa área, portanto, neste portfólio
 
  <img 
     align="left" 
-    alt="C"
-    title="C" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
@@ -49,8 +49,8 @@ Atualmente eu estou estudando para atuar nessa área, portanto, neste portfólio
            
 <img 
     align="left" 
-    alt="C"
-    title="C" 
+    alt="Anaconda"
+    title="Anaconda" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"
